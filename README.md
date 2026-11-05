@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-### Top 3 MCU series
+### Top 3 Movies
 1. Get Out
 
 > *"Get out" (2017) Is a movie about a couple In which the boyfriend, a photographer, goes to meet his girlfriend's family estate. He has been feeling weirded out by her all white family throughout the movie, starting with noticing the fact that they have a black person as a maid. This weirdness he Is sensing continues on, exploding Into one big climax with an Insane twist with the family and an unexpected ending.*
